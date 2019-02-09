@@ -1,5 +1,5 @@
 # DonationLogger
-By Jim e
+By Jashan
 
 Logs Clash of Clans donations to discord.
 
